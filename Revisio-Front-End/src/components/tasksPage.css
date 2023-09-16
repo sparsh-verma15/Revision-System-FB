@@ -1,0 +1,72 @@
+.taskListHeading {
+    text-align: center;
+    font-size: 24px;
+    font-weight: 700;
+}
+
+/* Add task form */
+.addTaskFormContainer {
+    background-color: white;
+    margin-top: 0.5rem;
+    padding: 5%;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+.addTaskHeading {
+    text-align: center;
+    font-size: 24px;
+    font-weight: 700;
+}
+
+.taskDescriptionInput {
+    height: 200px;
+}
+ 
+/* Task Card Styles */
+
+.taskCardContainer {
+    border: 1px solid black;
+    margin-top: 0.5rem;
+    padding: 1%;
+    border-radius: 10px;
+    background-color: white;
+}
+
+.taskCardHeading {
+    font-weight: 900;
+    font-size: 18px;
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+.taskDescription {
+    margin-top:1rem;
+    margin-bottom: 1rem;
+}
+
+.isRevisedButton {
+    /* background-color: white; */
+    border:none;
+    border-radius: 4px;
+    padding: 5px;
+    color: white;
+    font-weight: 500;
+}
+
+.revised {
+    background-color: #61d347;
+}
+
+.notRevised {
+    background-color:  orange;
+}
+
+.deleteTaskButton {
+    background-color: rgb(245, 68, 32);
+    border:none;
+    border-radius: 4px;
+    padding: 5px;
+    margin-left: 5px;
+    font-weight: 500;
+    color: white;
+}

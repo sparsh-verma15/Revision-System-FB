@@ -1,0 +1,24 @@
+.taskDetailsContainer {
+    border: 1px solid black;
+    margin-top: 0.5rem;
+    padding: 1%;
+    border-radius: 10px;
+    background-color: white;
+}
+
+.updateTaskFormContainer {
+    background-color: white;
+    margin-top: 0.5rem;
+    padding: 5%;
+    /* border: 1px solid black; */
+    border-radius: 10px;
+}
+
+.taskDescriptionInput {
+    height: 75vh;
+    max-height: 250px;
+}
+
+.taskDescriptionContainer {
+    text-align: center;
+}
